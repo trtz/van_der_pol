@@ -33,7 +33,6 @@ To run program, you need:
             pip3 install bokeh */
     3) web browser
 
-Found bug? Mail to ikulesj@gmail.com
 
 
                     /^\/^\           SssSss
