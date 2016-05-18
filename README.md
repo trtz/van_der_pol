@@ -28,7 +28,6 @@ To run program, you need:
 - web browser
 
 
-
                     /^\/^\           SssSss
                   _|__|  O|            sSsssSs
          \/     /~     \_/ \            ssSSsss
