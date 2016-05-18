@@ -10,22 +10,22 @@ Set of equations:
 Portrayal requires:
 * parameter l
 * parameter m
-* start point   |
+* start point   |  for classical Runge–Kutta method
 * h             |  for classical Runge–Kutta method
-* steps         |
+* steps         |  for classical Runge–Kutta method
 
 That's all you can:
-0. draw graphs (requires setting parameters)
-1. zoom plot
-2. add graphs
-3. remove graphs (double click on right panel)
+1. draw graphs (requires setting parameters)
+2. zoom plot
+3. add graphs
+4. remove graphs (double click on right panel)
 
 Run: python main.py
 To run program, you need:
-0. python3
-1. tkinter - included by default (so does not need to be installed)
-2. bokeh     /* Lib to draw graphs. Install it via pip install bokeh or pip3 install bokeh */
-3. web browser
+1. python3
+2. tkinter - included by default (so does not need to be installed)
+3. bokeh     /* Lib to draw graphs. Install it via pip install bokeh or pip3 install bokeh */
+4. web browser
 
 
 
