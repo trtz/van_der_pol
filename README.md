@@ -15,17 +15,17 @@ Portrayal requires:
 * steps         |  for classical Runge–Kutta method
 
 That's all you can:
-1. draw graphs (requires setting parameters)
-2. zoom plot
-3. add graphs
-4. remove graphs (double click on right panel)
+- draw graphs (requires setting parameters)
+- zoom plot
+- add graphs
+- remove graphs (double click on right panel)
 
 Run: python main.py
 To run program, you need:
-1. python3
-2. tkinter - included by default (so does not need to be installed)
-3. bokeh     /* Lib to draw graphs. Install it via pip install bokeh or pip3 install bokeh */
-4. web browser
+- python3
+- tkinter - included by default (so does not need to be installed)
+- bokeh     /* Lib to draw graphs. Install it via pip install bokeh or pip3 install bokeh */
+- web browser
 
 
 
